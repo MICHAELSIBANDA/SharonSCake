@@ -20,7 +20,7 @@ const Footer = () => {
     { 
       name: 'Facebook', 
       icon: <FaFacebookF />, 
-      url: 'https://facebook.com/yourpage' 
+      url: 'https://web.facebook.com/sharon.baloyi.682628' 
     },
     { 
       name: 'Instagram', 
@@ -35,7 +35,7 @@ const Footer = () => {
     { 
       name: 'TikTok', 
       icon: <FaTiktok />, 
-      url: 'https://tiktok.com/@yourprofile' 
+      url: 'https://www.tiktok.com/@shaazmakhets1' 
     },
     { 
       name: 'WhatsApp', 
